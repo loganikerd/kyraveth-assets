@@ -1,0 +1,1778 @@
+﻿{
+    "version":  1,
+    "baseUrl":  "https://raw.githubusercontent.com/loganikerd/kyraveth-assets/refs/heads/main/",
+    "generatedAt":  "2026-07-18T22:07:54.1501162Z",
+    "modelCount":  354,
+    "models":  [
+                   {
+                       "name":  "UAL1_Standard",
+                       "category":  "animations",
+                       "path":  "Animations/Universal Animation Library[Standard]/Unreal-Godot/UAL1_Standard.glb"
+                   },
+                   {
+                       "name":  "UAL1_Standard_RM",
+                       "category":  "animations",
+                       "path":  "Animations/Universal Animation Library[Standard]/Unreal-Godot/UAL1_Standard_RM.glb"
+                   },
+                   {
+                       "name":  "Superhero_Female_FullBody",
+                       "category":  "characters",
+                       "path":  "BaseCharacters/Superhero_Female_FullBody.gltf"
+                   },
+                   {
+                       "name":  "Superhero_Male_FullBody",
+                       "category":  "characters",
+                       "path":  "BaseCharacters/Superhero_Male_FullBody.gltf"
+                   },
+                   {
+                       "name":  "Balcony_Cross_Corner",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Balcony_Cross_Corner.gltf"
+                   },
+                   {
+                       "name":  "Balcony_Cross_Straight",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Balcony_Cross_Straight.gltf"
+                   },
+                   {
+                       "name":  "Balcony_Simple_Corner",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Balcony_Simple_Corner.gltf"
+                   },
+                   {
+                       "name":  "Balcony_Simple_Straight",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Balcony_Simple_Straight.gltf"
+                   },
+                   {
+                       "name":  "Corner_ExteriorWide_Brick",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Corner_ExteriorWide_Brick.gltf"
+                   },
+                   {
+                       "name":  "Corner_ExteriorWide_Wood",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Corner_ExteriorWide_Wood.gltf"
+                   },
+                   {
+                       "name":  "Corner_Exterior_Brick",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Corner_Exterior_Brick.gltf"
+                   },
+                   {
+                       "name":  "Corner_Exterior_TopDown",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Corner_Exterior_TopDown.gltf"
+                   },
+                   {
+                       "name":  "Corner_Exterior_TopOnly",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Corner_Exterior_TopOnly.gltf"
+                   },
+                   {
+                       "name":  "Corner_Exterior_Wood",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Corner_Exterior_Wood.gltf"
+                   },
+                   {
+                       "name":  "Corner_Interior_Big",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Corner_Interior_Big.gltf"
+                   },
+                   {
+                       "name":  "Corner_Interior_Small",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Corner_Interior_Small.gltf"
+                   },
+                   {
+                       "name":  "DoorFrame_Flat_Brick",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/DoorFrame_Flat_Brick.gltf"
+                   },
+                   {
+                       "name":  "DoorFrame_Flat_WoodDark",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/DoorFrame_Flat_WoodDark.gltf"
+                   },
+                   {
+                       "name":  "DoorFrame_Round_Brick",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/DoorFrame_Round_Brick.gltf"
+                   },
+                   {
+                       "name":  "DoorFrame_Round_WoodDark",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/DoorFrame_Round_WoodDark.gltf"
+                   },
+                   {
+                       "name":  "Door_1_Flat",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Door_1_Flat.gltf"
+                   },
+                   {
+                       "name":  "Door_1_Round",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Door_1_Round.gltf"
+                   },
+                   {
+                       "name":  "Door_2_Flat",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Door_2_Flat.gltf"
+                   },
+                   {
+                       "name":  "Door_2_Round",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Door_2_Round.gltf"
+                   },
+                   {
+                       "name":  "Door_4_Flat",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Door_4_Flat.gltf"
+                   },
+                   {
+                       "name":  "Door_4_Round",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Door_4_Round.gltf"
+                   },
+                   {
+                       "name":  "Door_8_Flat",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Door_8_Flat.gltf"
+                   },
+                   {
+                       "name":  "Door_8_Round",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Door_8_Round.gltf"
+                   },
+                   {
+                       "name":  "Floor_Brick",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_Brick.gltf"
+                   },
+                   {
+                       "name":  "Floor_RedBrick",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_RedBrick.gltf"
+                   },
+                   {
+                       "name":  "Floor_UnevenBrick",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_UnevenBrick.gltf"
+                   },
+                   {
+                       "name":  "Floor_WoodDark",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_WoodDark.gltf"
+                   },
+                   {
+                       "name":  "Floor_WoodDark_Half1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_WoodDark_Half1.gltf"
+                   },
+                   {
+                       "name":  "Floor_WoodDark_Half2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_WoodDark_Half2.gltf"
+                   },
+                   {
+                       "name":  "Floor_WoodDark_Half3",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_WoodDark_Half3.gltf"
+                   },
+                   {
+                       "name":  "Floor_WoodDark_OverhangCorner",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_WoodDark_OverhangCorner.gltf"
+                   },
+                   {
+                       "name":  "Floor_WoodDark_OverhangCorner2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_WoodDark_OverhangCorner2.gltf"
+                   },
+                   {
+                       "name":  "Floor_WoodLight",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_WoodLight.gltf"
+                   },
+                   {
+                       "name":  "Floor_WoodLight_OverhangCorner",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_WoodLight_OverhangCorner.gltf"
+                   },
+                   {
+                       "name":  "Floor_WoodLight_OverhangCorner2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Floor_WoodLight_OverhangCorner2.gltf"
+                   },
+                   {
+                       "name":  "HoleCover_90Angle",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/HoleCover_90Angle.gltf"
+                   },
+                   {
+                       "name":  "HoleCover_90Half",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/HoleCover_90Half.gltf"
+                   },
+                   {
+                       "name":  "HoleCover_90Stairs",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/HoleCover_90Stairs.gltf"
+                   },
+                   {
+                       "name":  "HoleCover_Straight",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/HoleCover_Straight.gltf"
+                   },
+                   {
+                       "name":  "HoleCover_StraightHalf",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/HoleCover_StraightHalf.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Plaster_Corner",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Plaster_Corner.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Plaster_Corner_Front",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Plaster_Corner_Front.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Plaster_Long",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Plaster_Long.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Plaster_Short",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Plaster_Short.gltf"
+                   },
+                   {
+                       "name":  "Overhang_RoofIncline_Plaster",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_RoofIncline_Plaster.gltf"
+                   },
+                   {
+                       "name":  "Overhang_RoofIncline_UnevenBricks",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_RoofIncline_UnevenBricks.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Roof_Plaster",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Roof_Plaster.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Roof_UnevenBricks",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Roof_UnevenBricks.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Side_Plaster_Long_L",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Side_Plaster_Long_L.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Side_Plaster_Long_R",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Side_Plaster_Long_R.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Side_Plaster_Short_L",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Side_Plaster_Short_L.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Side_Plaster_Short_R",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Side_Plaster_Short_R.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Side_UnevenBrick_Long_L",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Side_UnevenBrick_Long_L.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Side_UnevenBrick_Long_R",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Side_UnevenBrick_Long_R.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Side_UnevenBrick_Short_L",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Side_UnevenBrick_Short_L.gltf"
+                   },
+                   {
+                       "name":  "Overhang_Side_UnevenBrick_Short_R",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_Side_UnevenBrick_Short_R.gltf"
+                   },
+                   {
+                       "name":  "Overhang_UnevenBrick_Corner",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_UnevenBrick_Corner.gltf"
+                   },
+                   {
+                       "name":  "Overhang_UnevenBrick_Corner_Front",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_UnevenBrick_Corner_Front.gltf"
+                   },
+                   {
+                       "name":  "Overhang_UnevenBrick_Long",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_UnevenBrick_Long.gltf"
+                   },
+                   {
+                       "name":  "Overhang_UnevenBrick_Short",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Overhang_UnevenBrick_Short.gltf"
+                   },
+                   {
+                       "name":  "Prop_Brick1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Brick1.gltf"
+                   },
+                   {
+                       "name":  "Prop_Brick2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Brick2.gltf"
+                   },
+                   {
+                       "name":  "Prop_Brick3",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Brick3.gltf"
+                   },
+                   {
+                       "name":  "Prop_Brick4",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Brick4.gltf"
+                   },
+                   {
+                       "name":  "Prop_Chimney",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Chimney.gltf"
+                   },
+                   {
+                       "name":  "Prop_Chimney2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Chimney2.gltf"
+                   },
+                   {
+                       "name":  "Prop_Crate",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Crate.gltf"
+                   },
+                   {
+                       "name":  "Prop_ExteriorBorder_Corner",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_ExteriorBorder_Corner.gltf"
+                   },
+                   {
+                       "name":  "Prop_ExteriorBorder_Straight1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_ExteriorBorder_Straight1.gltf"
+                   },
+                   {
+                       "name":  "Prop_ExteriorBorder_Straight2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_ExteriorBorder_Straight2.gltf"
+                   },
+                   {
+                       "name":  "Prop_MetalFence_Ornament",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_MetalFence_Ornament.gltf"
+                   },
+                   {
+                       "name":  "Prop_MetalFence_Simple",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_MetalFence_Simple.gltf"
+                   },
+                   {
+                       "name":  "Prop_Support",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Support.gltf"
+                   },
+                   {
+                       "name":  "Prop_Vine1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Vine1.gltf"
+                   },
+                   {
+                       "name":  "Prop_Vine2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Vine2.gltf"
+                   },
+                   {
+                       "name":  "Prop_Vine4",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Vine4.gltf"
+                   },
+                   {
+                       "name":  "Prop_Vine5",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Vine5.gltf"
+                   },
+                   {
+                       "name":  "Prop_Vine6",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Vine6.gltf"
+                   },
+                   {
+                       "name":  "Prop_Vine9",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Vine9.gltf"
+                   },
+                   {
+                       "name":  "Prop_Wagon",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_Wagon.gltf"
+                   },
+                   {
+                       "name":  "Prop_WoodenFence_Extension1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_WoodenFence_Extension1.gltf"
+                   },
+                   {
+                       "name":  "Prop_WoodenFence_Extension2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_WoodenFence_Extension2.gltf"
+                   },
+                   {
+                       "name":  "Prop_WoodenFence_Single",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Prop_WoodenFence_Single.gltf"
+                   },
+                   {
+                       "name":  "Roof_2x4_RoundTile",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_2x4_RoundTile.gltf"
+                   },
+                   {
+                       "name":  "Roof_Dormer_RoundTile",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Dormer_RoundTile.gltf"
+                   },
+                   {
+                       "name":  "Roof_FrontSupports",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_FrontSupports.gltf"
+                   },
+                   {
+                       "name":  "Roof_Front_Brick2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick2.gltf"
+                   },
+                   {
+                       "name":  "Roof_Front_Brick4",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick4.gltf"
+                   },
+                   {
+                       "name":  "Roof_Front_Brick4_Half_L",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick4_Half_L.gltf"
+                   },
+                   {
+                       "name":  "Roof_Front_Brick4_Half_R",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick4_Half_R.gltf"
+                   },
+                   {
+                       "name":  "Roof_Front_Brick6",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick6.gltf"
+                   },
+                   {
+                       "name":  "Roof_Front_Brick6_Half_L",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick6_Half_L.gltf"
+                   },
+                   {
+                       "name":  "Roof_Front_Brick6_Half_R",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick6_Half_R.gltf"
+                   },
+                   {
+                       "name":  "Roof_Front_Brick8",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick8.gltf"
+                   },
+                   {
+                       "name":  "Roof_Front_Brick8_Half_L",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick8_Half_L.gltf"
+                   },
+                   {
+                       "name":  "Roof_Front_Brick8_Half_R",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Front_Brick8_Half_R.gltf"
+                   },
+                   {
+                       "name":  "Roof_Log",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Log.gltf"
+                   },
+                   {
+                       "name":  "Roof_Modular_RoundTiles",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Modular_RoundTiles.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_4x4",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_4x4.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_4x6",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_4x6.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_4x8",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_4x8.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_6x10",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_6x10.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_6x12",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_6x12.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_6x14",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_6x14.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_6x4",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_6x4.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_6x6",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_6x6.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_6x8",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_6x8.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_8x10",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_8x10.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_8x12",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_8x12.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_8x14",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_8x14.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTiles_8x8",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTiles_8x8.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTile_2x1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTile_2x1.gltf"
+                   },
+                   {
+                       "name":  "Roof_RoundTile_2x1_Long",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_RoundTile_2x1_Long.gltf"
+                   },
+                   {
+                       "name":  "Roof_Support2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Support2.gltf"
+                   },
+                   {
+                       "name":  "Roof_Tower_RoundTiles",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Tower_RoundTiles.gltf"
+                   },
+                   {
+                       "name":  "Roof_Wooden_2x1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Wooden_2x1.gltf"
+                   },
+                   {
+                       "name":  "Roof_Wooden_2x1_Center",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Wooden_2x1_Center.gltf"
+                   },
+                   {
+                       "name":  "Roof_Wooden_2x1_Center_Mirror",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Wooden_2x1_Center_Mirror.gltf"
+                   },
+                   {
+                       "name":  "Roof_Wooden_2x1_Corner",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Wooden_2x1_Corner.gltf"
+                   },
+                   {
+                       "name":  "Roof_Wooden_2x1_L",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Wooden_2x1_L.gltf"
+                   },
+                   {
+                       "name":  "Roof_Wooden_2x1_Middle",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Wooden_2x1_Middle.gltf"
+                   },
+                   {
+                       "name":  "Roof_Wooden_2x1_R",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Roof_Wooden_2x1_R.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_NoFirstStep",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_NoFirstStep.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_Platform",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_Platform.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_Platform45",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_Platform45.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_Platform45Clean",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_Platform45Clean.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_PlatformU",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_PlatformU.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_SidePlatform",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_SidePlatform.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_Sides",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_Sides.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_Sides45",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_Sides45.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_SidesU",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_SidesU.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_SingleSide",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_SingleSide.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_SingleSideThick",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_SingleSideThick.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_Straight",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_Straight.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_Straight_Center",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_Straight_Center.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_Straight_L",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_Straight_L.gltf"
+                   },
+                   {
+                       "name":  "Stairs_Exterior_Straight_R",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stairs_Exterior_Straight_R.gltf"
+                   },
+                   {
+                       "name":  "Stair_Interior_Rails",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stair_Interior_Rails.gltf"
+                   },
+                   {
+                       "name":  "Stair_Interior_Simple",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stair_Interior_Simple.gltf"
+                   },
+                   {
+                       "name":  "Stair_Interior_Solid",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stair_Interior_Solid.gltf"
+                   },
+                   {
+                       "name":  "Stair_Interior_SolidExtended",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Stair_Interior_SolidExtended.gltf"
+                   },
+                   {
+                       "name":  "Wall_Arch",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Arch.gltf"
+                   },
+                   {
+                       "name":  "Wall_BottomCover",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_BottomCover.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Door_Flat",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Door_Flat.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Door_Round",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Door_Round.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Door_RoundInset",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Door_RoundInset.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Straight",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Straight.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Straight_Base",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Straight_Base.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Straight_L",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Straight_L.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Straight_R",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Straight_R.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Window_Thin_Round",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Window_Thin_Round.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Window_Wide_Flat",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Window_Wide_Flat.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Window_Wide_Flat2",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Window_Wide_Flat2.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_Window_Wide_Round",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_Window_Wide_Round.gltf"
+                   },
+                   {
+                       "name":  "Wall_Plaster_WoodGrid",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_Plaster_WoodGrid.gltf"
+                   },
+                   {
+                       "name":  "Wall_UnevenBrick_Door_Flat",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_UnevenBrick_Door_Flat.gltf"
+                   },
+                   {
+                       "name":  "Wall_UnevenBrick_Door_Round",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_UnevenBrick_Door_Round.gltf"
+                   },
+                   {
+                       "name":  "Wall_UnevenBrick_Straight",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_UnevenBrick_Straight.gltf"
+                   },
+                   {
+                       "name":  "Wall_UnevenBrick_Window_Thin_Round",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_UnevenBrick_Window_Thin_Round.gltf"
+                   },
+                   {
+                       "name":  "Wall_UnevenBrick_Window_Wide_Flat",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_UnevenBrick_Window_Wide_Flat.gltf"
+                   },
+                   {
+                       "name":  "Wall_UnevenBrick_Window_Wide_Round",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Wall_UnevenBrick_Window_Wide_Round.gltf"
+                   },
+                   {
+                       "name":  "WindowShutters_Thin_Flat_Closed",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/WindowShutters_Thin_Flat_Closed.gltf"
+                   },
+                   {
+                       "name":  "WindowShutters_Thin_Flat_Open",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/WindowShutters_Thin_Flat_Open.gltf"
+                   },
+                   {
+                       "name":  "WindowShutters_Thin_Round_Closed",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/WindowShutters_Thin_Round_Closed.gltf"
+                   },
+                   {
+                       "name":  "WindowShutters_Thin_Round_Open",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/WindowShutters_Thin_Round_Open.gltf"
+                   },
+                   {
+                       "name":  "WindowShutters_Wide_Flat_Closed",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/WindowShutters_Wide_Flat_Closed.gltf"
+                   },
+                   {
+                       "name":  "WindowShutters_Wide_Flat_Open",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/WindowShutters_Wide_Flat_Open.gltf"
+                   },
+                   {
+                       "name":  "WindowShutters_Wide_Round_Closed",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/WindowShutters_Wide_Round_Closed.gltf"
+                   },
+                   {
+                       "name":  "WindowShutters_Wide_Round_Open",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/WindowShutters_Wide_Round_Open.gltf"
+                   },
+                   {
+                       "name":  "Window_Roof_Thin",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Window_Roof_Thin.gltf"
+                   },
+                   {
+                       "name":  "Window_Roof_Wide",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Window_Roof_Wide.gltf"
+                   },
+                   {
+                       "name":  "Window_Thin_Flat1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Window_Thin_Flat1.gltf"
+                   },
+                   {
+                       "name":  "Window_Thin_Round1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Window_Thin_Round1.gltf"
+                   },
+                   {
+                       "name":  "Window_Wide_Flat1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Window_Wide_Flat1.gltf"
+                   },
+                   {
+                       "name":  "Window_Wide_Round1",
+                       "category":  "architecture",
+                       "path":  "Environment/Architecture/Medieval Village MegaKit[Standard]/glTF/Window_Wide_Round1.gltf"
+                   },
+                   {
+                       "name":  "Bush_Common",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Bush_Common.gltf"
+                   },
+                   {
+                       "name":  "Bush_Common_Flowers",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Bush_Common_Flowers.gltf"
+                   },
+                   {
+                       "name":  "Clover_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Clover_1.gltf"
+                   },
+                   {
+                       "name":  "Clover_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Clover_2.gltf"
+                   },
+                   {
+                       "name":  "CommonTree_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/CommonTree_1.gltf"
+                   },
+                   {
+                       "name":  "CommonTree_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/CommonTree_2.gltf"
+                   },
+                   {
+                       "name":  "CommonTree_3",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/CommonTree_3.gltf"
+                   },
+                   {
+                       "name":  "CommonTree_4",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/CommonTree_4.gltf"
+                   },
+                   {
+                       "name":  "CommonTree_5",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/CommonTree_5.gltf"
+                   },
+                   {
+                       "name":  "DeadTree_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/DeadTree_1.gltf"
+                   },
+                   {
+                       "name":  "DeadTree_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/DeadTree_2.gltf"
+                   },
+                   {
+                       "name":  "DeadTree_3",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/DeadTree_3.gltf"
+                   },
+                   {
+                       "name":  "DeadTree_4",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/DeadTree_4.gltf"
+                   },
+                   {
+                       "name":  "DeadTree_5",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/DeadTree_5.gltf"
+                   },
+                   {
+                       "name":  "Fern_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Fern_1.gltf"
+                   },
+                   {
+                       "name":  "Flower_3_Group",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Flower_3_Group.gltf"
+                   },
+                   {
+                       "name":  "Flower_3_Single",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Flower_3_Single.gltf"
+                   },
+                   {
+                       "name":  "Flower_4_Group",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Flower_4_Group.gltf"
+                   },
+                   {
+                       "name":  "Flower_4_Single",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Flower_4_Single.gltf"
+                   },
+                   {
+                       "name":  "Grass_Common_Short",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Grass_Common_Short.gltf"
+                   },
+                   {
+                       "name":  "Grass_Common_Tall",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Grass_Common_Tall.gltf"
+                   },
+                   {
+                       "name":  "Grass_Wispy_Short",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Grass_Wispy_Short.gltf"
+                   },
+                   {
+                       "name":  "Grass_Wispy_Tall",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Grass_Wispy_Tall.gltf"
+                   },
+                   {
+                       "name":  "Mushroom_Common",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Mushroom_Common.gltf"
+                   },
+                   {
+                       "name":  "Mushroom_Laetiporus",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Mushroom_Laetiporus.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Round_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Round_1.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Round_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Round_2.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Round_3",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Round_3.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Round_4",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Round_4.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Round_5",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Round_5.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Square_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Square_1.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Square_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Square_2.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Square_3",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Square_3.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Square_4",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Square_4.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Square_5",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Square_5.gltf"
+                   },
+                   {
+                       "name":  "Pebble_Square_6",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pebble_Square_6.gltf"
+                   },
+                   {
+                       "name":  "Petal_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Petal_1.gltf"
+                   },
+                   {
+                       "name":  "Petal_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Petal_2.gltf"
+                   },
+                   {
+                       "name":  "Petal_3",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Petal_3.gltf"
+                   },
+                   {
+                       "name":  "Petal_4",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Petal_4.gltf"
+                   },
+                   {
+                       "name":  "Petal_5",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Petal_5.gltf"
+                   },
+                   {
+                       "name":  "Pine_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pine_1.gltf"
+                   },
+                   {
+                       "name":  "Pine_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pine_2.gltf"
+                   },
+                   {
+                       "name":  "Pine_3",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pine_3.gltf"
+                   },
+                   {
+                       "name":  "Pine_4",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pine_4.gltf"
+                   },
+                   {
+                       "name":  "Pine_5",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Pine_5.gltf"
+                   },
+                   {
+                       "name":  "Plant_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Plant_1.gltf"
+                   },
+                   {
+                       "name":  "Plant_1_Big",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Plant_1_Big.gltf"
+                   },
+                   {
+                       "name":  "Plant_7",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Plant_7.gltf"
+                   },
+                   {
+                       "name":  "Plant_7_Big",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Plant_7_Big.gltf"
+                   },
+                   {
+                       "name":  "RockPath_Round_Small_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/RockPath_Round_Small_1.gltf"
+                   },
+                   {
+                       "name":  "RockPath_Round_Small_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/RockPath_Round_Small_2.gltf"
+                   },
+                   {
+                       "name":  "RockPath_Round_Small_3",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/RockPath_Round_Small_3.gltf"
+                   },
+                   {
+                       "name":  "RockPath_Round_Thin",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/RockPath_Round_Thin.gltf"
+                   },
+                   {
+                       "name":  "RockPath_Round_Wide",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/RockPath_Round_Wide.gltf"
+                   },
+                   {
+                       "name":  "RockPath_Square_Small_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/RockPath_Square_Small_1.gltf"
+                   },
+                   {
+                       "name":  "RockPath_Square_Small_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/RockPath_Square_Small_2.gltf"
+                   },
+                   {
+                       "name":  "RockPath_Square_Small_3",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/RockPath_Square_Small_3.gltf"
+                   },
+                   {
+                       "name":  "RockPath_Square_Thin",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/RockPath_Square_Thin.gltf"
+                   },
+                   {
+                       "name":  "RockPath_Square_Wide",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/RockPath_Square_Wide.gltf"
+                   },
+                   {
+                       "name":  "Rock_Medium_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Rock_Medium_1.gltf"
+                   },
+                   {
+                       "name":  "Rock_Medium_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Rock_Medium_2.gltf"
+                   },
+                   {
+                       "name":  "Rock_Medium_3",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/Rock_Medium_3.gltf"
+                   },
+                   {
+                       "name":  "TwistedTree_1",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/TwistedTree_1.gltf"
+                   },
+                   {
+                       "name":  "TwistedTree_2",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/TwistedTree_2.gltf"
+                   },
+                   {
+                       "name":  "TwistedTree_3",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/TwistedTree_3.gltf"
+                   },
+                   {
+                       "name":  "TwistedTree_4",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/TwistedTree_4.gltf"
+                   },
+                   {
+                       "name":  "TwistedTree_5",
+                       "category":  "nature",
+                       "path":  "Environment/Nature/glTF/TwistedTree_5.gltf"
+                   },
+                   {
+                       "name":  "Anvil",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Anvil.gltf"
+                   },
+                   {
+                       "name":  "Anvil_Log",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Anvil_Log.gltf"
+                   },
+                   {
+                       "name":  "Axe_Bronze",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Axe_Bronze.gltf"
+                   },
+                   {
+                       "name":  "Bag",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Bag.gltf"
+                   },
+                   {
+                       "name":  "Banner_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Banner_1.gltf"
+                   },
+                   {
+                       "name":  "Banner_1_Cloth",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Banner_1_Cloth.gltf"
+                   },
+                   {
+                       "name":  "Banner_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Banner_2.gltf"
+                   },
+                   {
+                       "name":  "Banner_2_Cloth",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Banner_2_Cloth.gltf"
+                   },
+                   {
+                       "name":  "Barrel",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Barrel.gltf"
+                   },
+                   {
+                       "name":  "Barrel_Apples",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Barrel_Apples.gltf"
+                   },
+                   {
+                       "name":  "Barrel_Holder",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Barrel_Holder.gltf"
+                   },
+                   {
+                       "name":  "Bed_Twin1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Bed_Twin1.gltf"
+                   },
+                   {
+                       "name":  "Bed_Twin2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Bed_Twin2.gltf"
+                   },
+                   {
+                       "name":  "Bench",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Bench.gltf"
+                   },
+                   {
+                       "name":  "Bookcase_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Bookcase_2.gltf"
+                   },
+                   {
+                       "name":  "BookGroup_Medium_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/BookGroup_Medium_1.gltf"
+                   },
+                   {
+                       "name":  "BookGroup_Medium_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/BookGroup_Medium_2.gltf"
+                   },
+                   {
+                       "name":  "BookGroup_Medium_3",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/BookGroup_Medium_3.gltf"
+                   },
+                   {
+                       "name":  "BookGroup_Small_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/BookGroup_Small_1.gltf"
+                   },
+                   {
+                       "name":  "BookGroup_Small_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/BookGroup_Small_2.gltf"
+                   },
+                   {
+                       "name":  "BookGroup_Small_3",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/BookGroup_Small_3.gltf"
+                   },
+                   {
+                       "name":  "BookStand",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/BookStand.gltf"
+                   },
+                   {
+                       "name":  "Book_5",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Book_5.gltf"
+                   },
+                   {
+                       "name":  "Book_7",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Book_7.gltf"
+                   },
+                   {
+                       "name":  "Book_Simplified_Single",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Book_Simplified_Single.gltf"
+                   },
+                   {
+                       "name":  "Book_Stack_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Book_Stack_1.gltf"
+                   },
+                   {
+                       "name":  "Book_Stack_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Book_Stack_2.gltf"
+                   },
+                   {
+                       "name":  "Bottle_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Bottle_1.gltf"
+                   },
+                   {
+                       "name":  "Bucket_Metal",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Bucket_Metal.gltf"
+                   },
+                   {
+                       "name":  "Bucket_Wooden_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Bucket_Wooden_1.gltf"
+                   },
+                   {
+                       "name":  "Cabinet",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Cabinet.gltf"
+                   },
+                   {
+                       "name":  "Cage_Small",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Cage_Small.gltf"
+                   },
+                   {
+                       "name":  "CandleStick",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/CandleStick.gltf"
+                   },
+                   {
+                       "name":  "CandleStick_Stand",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/CandleStick_Stand.gltf"
+                   },
+                   {
+                       "name":  "CandleStick_Triple",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/CandleStick_Triple.gltf"
+                   },
+                   {
+                       "name":  "Candle_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Candle_1.gltf"
+                   },
+                   {
+                       "name":  "Candle_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Candle_2.gltf"
+                   },
+                   {
+                       "name":  "Carrot",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Carrot.gltf"
+                   },
+                   {
+                       "name":  "Cauldron",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Cauldron.gltf"
+                   },
+                   {
+                       "name":  "Chain_Coil",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Chain_Coil.gltf"
+                   },
+                   {
+                       "name":  "Chair_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Chair_1.gltf"
+                   },
+                   {
+                       "name":  "Chalice",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Chalice.gltf"
+                   },
+                   {
+                       "name":  "Chandelier",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Chandelier.gltf"
+                   },
+                   {
+                       "name":  "Chest_Wood",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Chest_Wood.gltf"
+                   },
+                   {
+                       "name":  "Coin",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Coin.gltf"
+                   },
+                   {
+                       "name":  "Coin_Pile",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Coin_Pile.gltf"
+                   },
+                   {
+                       "name":  "Coin_Pile_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Coin_Pile_2.gltf"
+                   },
+                   {
+                       "name":  "Crate_Metal",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Crate_Metal.gltf"
+                   },
+                   {
+                       "name":  "Crate_Wooden",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Crate_Wooden.gltf"
+                   },
+                   {
+                       "name":  "Dummy",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Dummy.gltf"
+                   },
+                   {
+                       "name":  "FarmCrate_Apple",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/FarmCrate_Apple.gltf"
+                   },
+                   {
+                       "name":  "FarmCrate_Carrot",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/FarmCrate_Carrot.gltf"
+                   },
+                   {
+                       "name":  "FarmCrate_Empty",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/FarmCrate_Empty.gltf"
+                   },
+                   {
+                       "name":  "Key_Gold",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Key_Gold.gltf"
+                   },
+                   {
+                       "name":  "Key_Metal",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Key_Metal.gltf"
+                   },
+                   {
+                       "name":  "Lantern_Wall",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Lantern_Wall.gltf"
+                   },
+                   {
+                       "name":  "Mug",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Mug.gltf"
+                   },
+                   {
+                       "name":  "Nightstand_Shelf",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Nightstand_Shelf.gltf"
+                   },
+                   {
+                       "name":  "Peg_Rack",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Peg_Rack.gltf"
+                   },
+                   {
+                       "name":  "Pickaxe_Bronze",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Pickaxe_Bronze.gltf"
+                   },
+                   {
+                       "name":  "Potion_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Potion_1.gltf"
+                   },
+                   {
+                       "name":  "Potion_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Potion_2.gltf"
+                   },
+                   {
+                       "name":  "Potion_4",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Potion_4.gltf"
+                   },
+                   {
+                       "name":  "Pot_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Pot_1.gltf"
+                   },
+                   {
+                       "name":  "Pot_1_Lid",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Pot_1_Lid.gltf"
+                   },
+                   {
+                       "name":  "Pouch_Large",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Pouch_Large.gltf"
+                   },
+                   {
+                       "name":  "Rope_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Rope_1.gltf"
+                   },
+                   {
+                       "name":  "Rope_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Rope_2.gltf"
+                   },
+                   {
+                       "name":  "Rope_3",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Rope_3.gltf"
+                   },
+                   {
+                       "name":  "Scroll_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Scroll_1.gltf"
+                   },
+                   {
+                       "name":  "Scroll_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Scroll_2.gltf"
+                   },
+                   {
+                       "name":  "Shelf_Arch",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Shelf_Arch.gltf"
+                   },
+                   {
+                       "name":  "Shelf_Simple",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Shelf_Simple.gltf"
+                   },
+                   {
+                       "name":  "Shelf_Small_Bottles",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Shelf_Small_Bottles.gltf"
+                   },
+                   {
+                       "name":  "Shield_Wooden",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Shield_Wooden.gltf"
+                   },
+                   {
+                       "name":  "SmallBottle",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/SmallBottle.gltf"
+                   },
+                   {
+                       "name":  "SmallBottles_1",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/SmallBottles_1.gltf"
+                   },
+                   {
+                       "name":  "Stall_Cart_Empty",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Stall_Cart_Empty.gltf"
+                   },
+                   {
+                       "name":  "Stall_Empty",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Stall_Empty.gltf"
+                   },
+                   {
+                       "name":  "Stool",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Stool.gltf"
+                   },
+                   {
+                       "name":  "Sword_Bronze",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Sword_Bronze.gltf"
+                   },
+                   {
+                       "name":  "Table_Fork",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Table_Fork.gltf"
+                   },
+                   {
+                       "name":  "Table_Knife",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Table_Knife.gltf"
+                   },
+                   {
+                       "name":  "Table_Large",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Table_Large.gltf"
+                   },
+                   {
+                       "name":  "Table_Plate",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Table_Plate.gltf"
+                   },
+                   {
+                       "name":  "Table_Spoon",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Table_Spoon.gltf"
+                   },
+                   {
+                       "name":  "Torch_Metal",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Torch_Metal.gltf"
+                   },
+                   {
+                       "name":  "Vase_2",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Vase_2.gltf"
+                   },
+                   {
+                       "name":  "Vase_4",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Vase_4.gltf"
+                   },
+                   {
+                       "name":  "Vase_Rubble_Medium",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Vase_Rubble_Medium.gltf"
+                   },
+                   {
+                       "name":  "WeaponStand",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/WeaponStand.gltf"
+                   },
+                   {
+                       "name":  "Whetstone",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Whetstone.gltf"
+                   },
+                   {
+                       "name":  "Workbench",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Workbench.gltf"
+                   },
+                   {
+                       "name":  "Workbench_Drawers",
+                       "category":  "props",
+                       "path":  "Environment/Props/Exports/glTF/Workbench_Drawers.gltf"
+                   },
+                   {
+                       "name":  "Eyebrows_Female",
+                       "category":  "hairstyles",
+                       "path":  "Hairstyles_Rigged/Eyebrows_Female.gltf"
+                   },
+                   {
+                       "name":  "Eyebrows_Regular",
+                       "category":  "hairstyles",
+                       "path":  "Hairstyles_Rigged/Eyebrows_Regular.gltf"
+                   },
+                   {
+                       "name":  "Hair_Beard",
+                       "category":  "hairstyles",
+                       "path":  "Hairstyles_Rigged/Hair_Beard.gltf"
+                   },
+                   {
+                       "name":  "Hair_Buns",
+                       "category":  "hairstyles",
+                       "path":  "Hairstyles_Rigged/Hair_Buns.gltf"
+                   },
+                   {
+                       "name":  "Hair_Buzzed",
+                       "category":  "hairstyles",
+                       "path":  "Hairstyles_Rigged/Hair_Buzzed.gltf"
+                   },
+                   {
+                       "name":  "Hair_BuzzedFemale",
+                       "category":  "hairstyles",
+                       "path":  "Hairstyles_Rigged/Hair_BuzzedFemale.gltf"
+                   },
+                   {
+                       "name":  "Hair_Long",
+                       "category":  "hairstyles",
+                       "path":  "Hairstyles_Rigged/Hair_Long.gltf"
+                   },
+                   {
+                       "name":  "Hair_SimpleParted",
+                       "category":  "hairstyles",
+                       "path":  "Hairstyles_Rigged/Hair_SimpleParted.gltf"
+                   },
+                   {
+                       "name":  "Female_Peasant",
+                       "category":  "outfits",
+                       "path":  "Outfits/Female_Peasant.gltf"
+                   },
+                   {
+                       "name":  "Female_Ranger",
+                       "category":  "outfits",
+                       "path":  "Outfits/Female_Ranger.gltf"
+                   },
+                   {
+                       "name":  "Male_Peasant",
+                       "category":  "outfits",
+                       "path":  "Outfits/Male_Peasant.gltf"
+                   },
+                   {
+                       "name":  "Male_Ranger",
+                       "category":  "outfits",
+                       "path":  "Outfits/Male_Ranger.gltf"
+                   }
+               ]
+}
